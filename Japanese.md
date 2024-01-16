@@ -1,3 +1,5 @@
 # Japanese
 
-- Hax SOV word order
+- Has SOV word order
+- Uses kanjo, hirigana, and katakana scripts
+- Spoken widely in Japan
